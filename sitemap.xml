@@ -1,148 +1,277 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/__sitemap__/style.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://samyoc.com/</loc>
+        <loc>https://www.samyoc.com/</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://www.samyoc.com/" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://www.samyoc.com/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.samyoc.com/" />
     </url>
     <url>
-        <loc>https://samyoc.com/abidecoder</loc>
+        <loc>https://www.samyoc.com/abidecoder</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://www.samyoc.com/abidecoder" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://www.samyoc.com/abidecoder" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.samyoc.com/abidecoder" />
     </url>
     <url>
-        <loc>https://samyoc.com/adatools</loc>
+        <loc>https://www.samyoc.com/adatools</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://www.samyoc.com/adatools" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://www.samyoc.com/adatools" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.samyoc.com/adatools" />
     </url>
     <url>
-        <loc>https://samyoc.com/aes</loc>
+        <loc>https://www.samyoc.com/aes</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://www.samyoc.com/aes" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://www.samyoc.com/aes" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.samyoc.com/aes" />
     </url>
     <url>
-        <loc>https://samyoc.com/base64</loc>
+        <loc>https://www.samyoc.com/base64</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://www.samyoc.com/base64" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://www.samyoc.com/base64" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.samyoc.com/base64" />
     </url>
     <url>
-        <loc>https://samyoc.com/chscht</loc>
+        <loc>https://www.samyoc.com/chscht</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://www.samyoc.com/chscht" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://www.samyoc.com/chscht" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.samyoc.com/chscht" />
     </url>
     <url>
-        <loc>https://samyoc.com/contract_evm</loc>
+        <loc>https://www.samyoc.com/contract_evm</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://www.samyoc.com/contract_evm" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://www.samyoc.com/contract_evm" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.samyoc.com/contract_evm" />
     </url>
     <url>
-        <loc>https://samyoc.com/decodetx</loc>
+        <loc>https://www.samyoc.com/decodetx</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://www.samyoc.com/decodetx" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://www.samyoc.com/decodetx" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.samyoc.com/decodetx" />
     </url>
     <url>
-        <loc>https://samyoc.com/des</loc>
+        <loc>https://www.samyoc.com/des</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://www.samyoc.com/des" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://www.samyoc.com/des" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.samyoc.com/des" />
     </url>
     <url>
-        <loc>https://samyoc.com/donate</loc>
+        <loc>https://www.samyoc.com/donate</loc>
         <image:image>
-            <image:loc>https://samyoc.com/images/btc.png</image:loc>
+            <image:loc>https://www.samyoc.com/images/btc.png</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://samyoc.com/images/eth.png</image:loc>
+            <image:loc>https://www.samyoc.com/images/eth.png</image:loc>
         </image:image>
         <image:image>
-            <image:loc>https://samyoc.com/images/author.jpeg</image:loc>
+            <image:loc>https://www.samyoc.com/images/author.jpeg</image:loc>
         </image:image>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://www.samyoc.com/donate" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://www.samyoc.com/donate" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.samyoc.com/donate" />
     </url>
     <url>
-        <loc>https://samyoc.com/encoder</loc>
+        <loc>https://www.samyoc.com/encoder</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://www.samyoc.com/encoder" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://www.samyoc.com/encoder" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.samyoc.com/encoder" />
     </url>
     <url>
-        <loc>https://samyoc.com/hex</loc>
+        <loc>https://www.samyoc.com/hex</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://www.samyoc.com/hex" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://www.samyoc.com/hex" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.samyoc.com/hex" />
     </url>
     <url>
-        <loc>https://samyoc.com/hmacmd5</loc>
+        <loc>https://www.samyoc.com/hmacmd5</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://www.samyoc.com/hmacmd5" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://www.samyoc.com/hmacmd5" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.samyoc.com/hmacmd5" />
     </url>
     <url>
-        <loc>https://samyoc.com/hmacripemd160</loc>
+        <loc>https://www.samyoc.com/hmacripemd160</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://www.samyoc.com/hmacripemd160" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://www.samyoc.com/hmacripemd160" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.samyoc.com/hmacripemd160" />
     </url>
     <url>
-        <loc>https://samyoc.com/hmacsha1</loc>
+        <loc>https://www.samyoc.com/hmacsha1</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://www.samyoc.com/hmacsha1" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://www.samyoc.com/hmacsha1" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.samyoc.com/hmacsha1" />
     </url>
     <url>
-        <loc>https://samyoc.com/hmacsha224</loc>
+        <loc>https://www.samyoc.com/hmacsha224</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://www.samyoc.com/hmacsha224" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://www.samyoc.com/hmacsha224" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.samyoc.com/hmacsha224" />
     </url>
     <url>
-        <loc>https://samyoc.com/hmacsha256</loc>
+        <loc>https://www.samyoc.com/hmacsha256</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://www.samyoc.com/hmacsha256" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://www.samyoc.com/hmacsha256" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.samyoc.com/hmacsha256" />
     </url>
     <url>
-        <loc>https://samyoc.com/hmacsha384</loc>
+        <loc>https://www.samyoc.com/hmacsha384</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://www.samyoc.com/hmacsha384" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://www.samyoc.com/hmacsha384" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.samyoc.com/hmacsha384" />
     </url>
     <url>
-        <loc>https://samyoc.com/hmacsha512</loc>
+        <loc>https://www.samyoc.com/hmacsha512</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://www.samyoc.com/hmacsha512" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://www.samyoc.com/hmacsha512" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.samyoc.com/hmacsha512" />
     </url>
     <url>
-        <loc>https://samyoc.com/jsonformat</loc>
+        <loc>https://www.samyoc.com/jsonformat</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://www.samyoc.com/jsonformat" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://www.samyoc.com/jsonformat" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.samyoc.com/jsonformat" />
     </url>
     <url>
-        <loc>https://samyoc.com/life</loc>
+        <loc>https://www.samyoc.com/life</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://www.samyoc.com/life" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://www.samyoc.com/life" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.samyoc.com/life" />
     </url>
     <url>
-        <loc>https://samyoc.com/md5</loc>
+        <loc>https://www.samyoc.com/md5</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://www.samyoc.com/md5" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://www.samyoc.com/md5" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.samyoc.com/md5" />
     </url>
     <url>
-        <loc>https://samyoc.com/microsofttranslate</loc>
+        <loc>https://www.samyoc.com/microsofttranslate</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://www.samyoc.com/microsofttranslate" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://www.samyoc.com/microsofttranslate" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.samyoc.com/microsofttranslate" />
     </url>
     <url>
-        <loc>https://samyoc.com/pbkdf2</loc>
+        <loc>https://www.samyoc.com/pbkdf2</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://www.samyoc.com/pbkdf2" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://www.samyoc.com/pbkdf2" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.samyoc.com/pbkdf2" />
     </url>
     <url>
-        <loc>https://samyoc.com/pic2base64</loc>
+        <loc>https://www.samyoc.com/pic2base64</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://www.samyoc.com/pic2base64" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://www.samyoc.com/pic2base64" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.samyoc.com/pic2base64" />
     </url>
     <url>
-        <loc>https://samyoc.com/qrcode</loc>
+        <loc>https://www.samyoc.com/qrcode</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://www.samyoc.com/qrcode" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://www.samyoc.com/qrcode" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.samyoc.com/qrcode" />
     </url>
     <url>
-        <loc>https://samyoc.com/qrcodemul</loc>
+        <loc>https://www.samyoc.com/qrcodemul</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://www.samyoc.com/qrcodemul" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://www.samyoc.com/qrcodemul" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.samyoc.com/qrcodemul" />
     </url>
     <url>
-        <loc>https://samyoc.com/qrcodereader</loc>
+        <loc>https://www.samyoc.com/qrcodereader</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://www.samyoc.com/qrcodereader" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://www.samyoc.com/qrcodereader" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.samyoc.com/qrcodereader" />
     </url>
     <url>
-        <loc>https://samyoc.com/rabbit</loc>
+        <loc>https://www.samyoc.com/rabbit</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://www.samyoc.com/rabbit" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://www.samyoc.com/rabbit" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.samyoc.com/rabbit" />
     </url>
     <url>
-        <loc>https://samyoc.com/rc4</loc>
+        <loc>https://www.samyoc.com/rc4</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://www.samyoc.com/rc4" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://www.samyoc.com/rc4" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.samyoc.com/rc4" />
     </url>
     <url>
-        <loc>https://samyoc.com/rc4drop</loc>
+        <loc>https://www.samyoc.com/rc4drop</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://www.samyoc.com/rc4drop" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://www.samyoc.com/rc4drop" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.samyoc.com/rc4drop" />
     </url>
     <url>
-        <loc>https://samyoc.com/ripemd160</loc>
+        <loc>https://www.samyoc.com/ripemd160</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://www.samyoc.com/ripemd160" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://www.samyoc.com/ripemd160" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.samyoc.com/ripemd160" />
     </url>
     <url>
-        <loc>https://samyoc.com/sha1</loc>
+        <loc>https://www.samyoc.com/sha1</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://www.samyoc.com/sha1" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://www.samyoc.com/sha1" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.samyoc.com/sha1" />
     </url>
     <url>
-        <loc>https://samyoc.com/sha3</loc>
+        <loc>https://www.samyoc.com/sha3</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://www.samyoc.com/sha3" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://www.samyoc.com/sha3" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.samyoc.com/sha3" />
     </url>
     <url>
-        <loc>https://samyoc.com/sha224</loc>
+        <loc>https://www.samyoc.com/sha224</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://www.samyoc.com/sha224" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://www.samyoc.com/sha224" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.samyoc.com/sha224" />
     </url>
     <url>
-        <loc>https://samyoc.com/sha256</loc>
+        <loc>https://www.samyoc.com/sha256</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://www.samyoc.com/sha256" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://www.samyoc.com/sha256" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.samyoc.com/sha256" />
     </url>
     <url>
-        <loc>https://samyoc.com/sha384</loc>
+        <loc>https://www.samyoc.com/sha384</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://www.samyoc.com/sha384" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://www.samyoc.com/sha384" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.samyoc.com/sha384" />
     </url>
     <url>
-        <loc>https://samyoc.com/sha512</loc>
+        <loc>https://www.samyoc.com/sha512</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://www.samyoc.com/sha512" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://www.samyoc.com/sha512" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.samyoc.com/sha512" />
     </url>
     <url>
-        <loc>https://samyoc.com/tetris</loc>
+        <loc>https://www.samyoc.com/tetris</loc>
         <image:image>
-            <image:loc>https://samyoc.com/images/rabit1.svg?t=1</image:loc>
+            <image:loc>https://www.samyoc.com/images/rabit1.svg?t=1</image:loc>
         </image:image>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://www.samyoc.com/tetris" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://www.samyoc.com/tetris" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.samyoc.com/tetris" />
     </url>
     <url>
-        <loc>https://samyoc.com/tontools</loc>
+        <loc>https://www.samyoc.com/tontools</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://www.samyoc.com/tontools" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://www.samyoc.com/tontools" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.samyoc.com/tontools" />
     </url>
     <url>
-        <loc>https://samyoc.com/toolbox</loc>
+        <loc>https://www.samyoc.com/toolbox</loc>
         <image:image>
-            <image:loc>https://samyoc.com/images/warmer.png</image:loc>
+            <image:loc>https://www.samyoc.com/images/warmer.png</image:loc>
         </image:image>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://www.samyoc.com/toolbox" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://www.samyoc.com/toolbox" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.samyoc.com/toolbox" />
     </url>
     <url>
-        <loc>https://samyoc.com/tripledes</loc>
+        <loc>https://www.samyoc.com/tripledes</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://www.samyoc.com/tripledes" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://www.samyoc.com/tripledes" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.samyoc.com/tripledes" />
     </url>
     <url>
-        <loc>https://samyoc.com/xrptools</loc>
+        <loc>https://www.samyoc.com/xrptools</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://www.samyoc.com/xrptools" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://www.samyoc.com/xrptools" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://www.samyoc.com/xrptools" />
     </url>
 </urlset>
-<!-- XML Sitemap generated by @nuxtjs/sitemap v6.0.1 at 2026-01-02T11:49:16.167Z -->
+<!-- XML Sitemap generated by @nuxtjs/sitemap v6.0.1 at 2026-01-03T12:58:27.233Z -->
